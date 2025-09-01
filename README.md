@@ -1,4 +1,4 @@
-Free Edition / 無料版
+Free Edition / 無料版 /n
 This release provides a Free Edition that allows you to immediately try out basic features. It's perfect for users who want to automatically watch live streams of a specific YouTube channel without any complex configuration./このリリースでは、基本的な機能をすぐにお試しいただける無料版を提供します。複雑な設定なしで、特定のYouTubeチャンネルのライブ配信を自動で視聴したい方に最適です。
 
 ✨ Main Features (Free Edition) / 主な機能 (無料版)
